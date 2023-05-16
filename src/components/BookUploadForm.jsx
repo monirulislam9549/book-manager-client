@@ -146,7 +146,7 @@ const BookUploadForm = () => {
         </div>
         <div className="col-12">
           <div className="mb-3">
-            <label for="formFile" className="form-label">
+            <label htmlFor="formFile" className="form-label">
               Insert pdf link of the book
             </label>
             <input
